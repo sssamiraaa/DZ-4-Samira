@@ -1,0 +1,47 @@
+h2 {
+  margin: auto;
+}
+div {
+  margin-top: 5px;
+  text-align: center;
+}
+#container {
+  width: auto;
+}
+#header {
+  background: #fff1b4ea;
+  height: 150px;
+  
+}
+#navigation {
+  background: #ffb4ecea;
+  height: 40px;
+  
+}
+#content {
+  background: #b4f4ffea;
+  float: left;
+  width: 75%;
+  height: 250px;
+  
+}
+#sidebar {
+  background: #b4ffbaea;
+  float: right;
+  width: 25%;
+  height: 250px;
+  
+}
+#clear {
+  clear:both;
+}
+#footer {
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+  background: #f1a9ffea;
+  height: 150px;
+}
+body{
+  background-color: black;
+}
